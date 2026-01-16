@@ -1,7 +1,7 @@
 ### Task Description
 
 1. **Fetch Events Data**
-   - Retrieve events from the following endpoint: [https://playback-app-28d68.web.app/match.json](https://playback-app-28d68.web.app/match.json).
+   - Retrieve events from the following link: [https://playback-app-28d68.web.app/match.json](https://playback-app-28d68.web.app/match.json).
    - The response will be a list of event objects with the following structure:
      ```json
      {
